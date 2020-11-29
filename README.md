@@ -1,6 +1,6 @@
 # Snowflaker Plugin for 3DsMax
 
-Plugin in Maxscript that creates a snowflake mesh in 3dsMax with customizable parameters. The [pdf](https://github.com/the-other-mariana/snowflaker-plugin/SnowflakerPlugin_Paper.pdf) explains the logic and concepts used for the development of this plugin. <br />
+Plugin in Maxscript that creates a snowflake mesh in 3dsMax with customizable parameters. The [pdf](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/SnowflakerPlugin_Paper.pdf) explains the logic and concepts used for the development of this plugin. <br />
 
 ## Specifications
 
