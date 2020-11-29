@@ -8,6 +8,12 @@ Plugin in Maxscript that creates a snowflake mesh in 3dsMax with customizable pa
 Language: `MAXScript` <br />
 Plugin: [Current Script](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/snowflaker.ms)
 
+## User Interface
+
+The User Interface looks as follows. <br />
+
+![alt text](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/ui.png?raw=true) <br />
+
 ## Instructions
 
 ### Getting Started
@@ -47,11 +53,7 @@ Plugin: [Current Script](https://github.com/the-other-mariana/snowflaker-plugin/
 
 ## Output
 
-The User Interface looks as follows. <br />
-
-![alt text](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/ui.png?raw=true) <br />
-
-And a sample snowflake rendered looks as below. <br />
+A sample sinusoidal snowflake rendered looks as below. <br />
 
 ![alt text](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/render01.png?raw=true) <br />
 
