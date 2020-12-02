@@ -10,7 +10,7 @@ Plugin: [Current Script](https://github.com/the-other-mariana/snowflaker-plugin/
 
 ## User Interface
 
-The User Interface looks as follows. <br />
+The User Interface looks as the image below. <br />
 
 ![ui](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/ui.png?raw=true) <br />
 
@@ -22,7 +22,7 @@ The User Interface looks as follows. <br />
 2. Open 3dsMax on a new scene.
 3. Go to `Scripting > MAXScript Editor`.
 4. Once in the editor, open the script from step 1, and then type `Ctrl + E` to run it.
-5. In the scene, go to the Objects menu and in the dropdown choose `Snowflaker Plugin`. The following will appear: <br />
+5. In the scene, go to the Objects menu and in the dropdown choose `Snowflaker Plugin`. After doing this, the menu will look as the picture below: <br />
 
 ![screen](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/find-plugin.png) <br />
 
@@ -53,7 +53,7 @@ The User Interface looks as follows. <br />
 
 ## Output
 
-A sample sinusoidal snowflake rendered looks as below. <br />
+A sample sinusoidal snowflake rendered looks as the image below. <br />
 
 ![sample render](https://github.com/the-other-mariana/snowflaker-plugin/blob/master/media/render01.png?raw=true) <br />
 
